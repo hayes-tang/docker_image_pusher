@@ -71,6 +71,7 @@
 #mysql:8.0.39
 python:3.12.9-slim
 python:3.11-slim
+opea/comps-base:latest
 
 
 
